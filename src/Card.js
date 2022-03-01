@@ -8,14 +8,14 @@ export function Card() {
                 </div>
                 <div className="points">
                     <ul className="list-items">
-                        <li class="adv"><span>✔ &nbsp; &nbsp; </span>Single User</li>
-                        <li class="adv"><span>✔ &nbsp; &nbsp; </span>5GB Storage</li>
-                        <li class="adv"><span>✔ &nbsp; &nbsp; </span>Unlimited Public Projects</li>
-                        <li class="adv"><span>✔ &nbsp; &nbsp; </span>Community Access</li>
-                        <li class="adv disabled"><span>✖ &nbsp; &nbsp; </span>Unlimited Private Projects</li>
-                        <li class="adv disabled"><span>✖ &nbsp; &nbsp; </span>Dedicated Phone Support</li>
-                        <li class="adv disabled"><span>✖ &nbsp; &nbsp; </span>Free Subdomain</li>
-                        <li class="adv disabled"><span>✖ &nbsp; &nbsp; </span>Monthly Status Reports</li>
+                        <li className="adv"><span>✔ &nbsp; &nbsp; </span>Single User</li>
+                        <li className="adv"><span>✔ &nbsp; &nbsp; </span>5GB Storage</li>
+                        <li className="adv"><span>✔ &nbsp; &nbsp; </span>Unlimited Public Projects</li>
+                        <li className="adv"><span>✔ &nbsp; &nbsp; </span>Community Access</li>
+                        <li className="adv disabled"><span>✖ &nbsp; &nbsp; </span>Unlimited Private Projects</li>
+                        <li className="adv disabled"><span>✖ &nbsp; &nbsp; </span>Dedicated Phone Support</li>
+                        <li className="adv disabled"><span>✖ &nbsp; &nbsp; </span>Free Subdomain</li>
+                        <li className="adv disabled"><span>✖ &nbsp; &nbsp; </span>Monthly Status Reports</li>
                     </ul>
                 </div>
                 <div className="btn">
@@ -29,14 +29,14 @@ export function Card() {
                 </div>
                 <div className="points">
                     <ul className="list-items">
-                        <li class="adv"><span>✔ &nbsp; &nbsp;</span><strong>5 User</strong></li>
-                        <li class="adv"><span>✔ &nbsp; &nbsp;</span>50GB Storage</li>
-                        <li class="adv"><span>✔ &nbsp; &nbsp;</span>Unlimited Public Projects</li>
-                        <li class="adv"><span>✔ &nbsp; &nbsp;</span>Community Access</li>
-                        <li class="adv"><span>✔ &nbsp; &nbsp;</span>Unlimited Private Projects</li>
-                        <li class="adv"><span>✔ &nbsp; &nbsp;</span>Dedicated Phone Support</li>
-                        <li class="adv"><span>✔ &nbsp; &nbsp;</span>Free Subdomain</li>
-                        <li class="adv disabled"><span>✖ &nbsp; &nbsp;</span>Monthly Status Reports</li>
+                        <li className="adv"><span>✔ &nbsp; &nbsp;</span><strong>5 User</strong></li>
+                        <li className="adv"><span>✔ &nbsp; &nbsp;</span>50GB Storage</li>
+                        <li className="adv"><span>✔ &nbsp; &nbsp;</span>Unlimited Public Projects</li>
+                        <li className="adv"><span>✔ &nbsp; &nbsp;</span>Community Access</li>
+                        <li className="adv"><span>✔ &nbsp; &nbsp;</span>Unlimited Private Projects</li>
+                        <li className="adv"><span>✔ &nbsp; &nbsp;</span>Dedicated Phone Support</li>
+                        <li className="adv"><span>✔ &nbsp; &nbsp;</span>Free Subdomain</li>
+                        <li className="adv disabled"><span>✖ &nbsp; &nbsp;</span>Monthly Status Reports</li>
                     </ul>
                 </div>
                 <div className="btn">
@@ -50,14 +50,14 @@ export function Card() {
                 </div>
                 <div className="points">
                     <ul className="list-items">
-                        <li class="adv"><span>✔ &nbsp; &nbsp;</span><strong>Unlimited Users</strong></li>
-                        <li class="adv"><span>✔ &nbsp; &nbsp;</span>150GB Storage</li>
-                        <li class="adv"><span>✔ &nbsp; &nbsp;</span>Unlimited Public Projects</li>
-                        <li class="adv"><span>✔ &nbsp; &nbsp;</span>Community Access</li>
-                        <li class="adv"><span>✔ &nbsp; &nbsp;</span>Unlimited Private Projects</li>
-                        <li class="adv"><span>✔ &nbsp; &nbsp;</span>Dedicated Phone Support</li>
-                        <li class="adv"><span>✔ &nbsp; &nbsp;</span><strong>Unlimited</strong> Free Subdomain</li>
-                        <li class="adv"><span>✔ &nbsp; &nbsp;</span>Monthly Status Reports</li>
+                        <li className="adv"><span>✔ &nbsp; &nbsp;</span><strong>Unlimited Users</strong></li>
+                        <li className="adv"><span>✔ &nbsp; &nbsp;</span>150GB Storage</li>
+                        <li className="adv"><span>✔ &nbsp; &nbsp;</span>Unlimited Public Projects</li>
+                        <li className="adv"><span>✔ &nbsp; &nbsp;</span>Community Access</li>
+                        <li className="adv"><span>✔ &nbsp; &nbsp;</span>Unlimited Private Projects</li>
+                        <li className="adv"><span>✔ &nbsp; &nbsp;</span>Dedicated Phone Support</li>
+                        <li className="adv"><span>✔ &nbsp; &nbsp;</span><strong>Unlimited</strong> Free Subdomain</li>
+                        <li className="adv"><span>✔ &nbsp; &nbsp;</span>Monthly Status Reports</li>
                     </ul>
                 </div>
                 <div className="btn">
