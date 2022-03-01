@@ -11,3 +11,70 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.main-container{
+  background:linear-gradient(to right, #0062E6, #33AEFF);
+  display: flex;
+justify-content: space-evenly;
+margin: 30px;
+padding: 30px;
+flex-wrap: wrap;
+}
+.cards{
+  background-color: white;
+  color: black;
+  padding: 20px;
+  text-align: center;
+  border-radius: 15px;
+  transition: 1s;
+  margin-top: 17px;
+}
+.adv{
+  list-style: none;
+  margin: 15px;
+  margin-left: 10px;
+  letter-spacing: 1px;
+}
+.list-items{
+  text-align: left;
+}
+.disabled{
+  color: lightslategrey;
+}
+.head{
+  border-bottom:1px solid rgb(191 198 205);
+}
+button{
+  width: 80%;
+  padding: 16px;
+  border-radius: 50px;
+  border: none;
+  background-color: #5f98ee;
+  color: white;
+  transition: 2s;
+  font-weight: 800;
+  letter-spacing: 1px;
+}
+.price{
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.cards:hover{
+  transform: translateY(-10px);
+}
+
+button:hover{
+  background: #0b5ed7;
+  cursor: pointer;
+}
+.worth{
+  color: lightslategray;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+.adv span{
+  font-weight: 700;
+}
